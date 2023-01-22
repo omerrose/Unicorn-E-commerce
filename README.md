@@ -1,5 +1,5 @@
 # Unicorn E-commerce
-Identify weak areas and opportunities for E-commerce platforms to boost business growth.
+Identified weak areas and opportunities for E-commerce platforms to boost business growth.
 
 
 Tableau: https://public.tableau.com/views/CapstoneProject_16679063166330/Unicorn?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
